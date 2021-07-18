@@ -1,0 +1,21 @@
+.heading{font-size:25px;
+         width:100%;
+         box-shadow:5px 5px 18px silver;
+         border-radius:100px;
+         margin:0px;}
+
+.u{font-size:15px;
+   color:black;}
+
+.copyrightfooter{position:fixed;
+                color:white;
+                bottom:0;
+            width:100%;
+            background-color:aqua;
+            text-align:center;}
+
+canvas{border:5px solid blue;
+       border-radius:20px;
+       box-shadow:5px 5px 18px black;}
+
+body{background:darkseagreen;}
